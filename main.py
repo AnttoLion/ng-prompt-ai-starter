@@ -1,4 +1,4 @@
-"""
+""" author: N.G
 Provides a simple Python API to generate prompts for AI image generation
 """
 import os
